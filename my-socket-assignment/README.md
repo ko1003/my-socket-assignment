@@ -20,4 +20,10 @@
 ### ขั้นตอนการเริ่มทำงาน (How to run)
 1. เปิด Terminal และเข้าไปที่โฟลเดอร์แบบฝึกหัดที่ 1:
    ```bash
-   cd exercise-1<img width="958" height="341" alt="Screenshot 2026-11-27 135324" src="https://github.com/user-attachments/assets/80d20d5c-b05b-4510-8d0f-c5c3e925ecf8" />
+   cd exercise-1
+   แล้วก็ใส่โค้ดแต่ล่ะตัว chat-app/
+├── client.py
+├── server.py
+├── Dockerfile.server
+├── Dockerfile.client
+└── docker-compose.yml
